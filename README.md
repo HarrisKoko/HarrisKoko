@@ -15,7 +15,7 @@ Highlighted Work
 [![PathTracer](img/PT.png)](https://github.com/HarrisKoko/Project3-CUDA-Path-Tracer)
 
 ## [CUDA Boid Simulation](https://github.com/HarrisKoko/Project1-CUDA-Flocking)
-![Boids Simulation](images/boidGif.gif "Flocking behavior demo")
+![Boids Simulation](img/boidGif.gif "Flocking behavior demo")
 
 <!---
 HarrisKoko/HarrisKoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
