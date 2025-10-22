@@ -1,8 +1,16 @@
 - 👋 Hi, I’m Haralambos (Harris) Kokkinakos 
-- 👀 I’m interested in anything related to computer science/engineering
-- 🌱 Currently working on senior design project using machine learning to control robotic arms using brain signals
-- 🎮 Learning Unreal Engine 5 and C++ to develop and RPG
-- 📫 Feel free to contact me at hkokkina@villanova.edu or hdkokkinakos@gmail.com
+- 👀 I'm seeking opportunities in Gameplay and/or Graphics Engineering
+- 🌱 I finish my master's degree in Computer Graphics and Game Technology at The University of Pennsylvania in Fall 2025
+- 🎮 My proficiencies include: C++, OpenGL, Unity, Unreal Engine, WebGPU, CUDA, 
+- 📫 Feel free to contact me at hdkokkinakos@gmail.com or visit my website https://harriskoko.github.io/Harris-Projects/
+
+Highlighted Work
+=====================================
+WebGPU Forward+ and Clustered Deferred Renderer
+![WebGPU](img/WebGPU.png)
+
+CUDA Path Tracer
+![PathTracer](img/PT.png)
 
 <!---
 HarrisKoko/HarrisKoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
